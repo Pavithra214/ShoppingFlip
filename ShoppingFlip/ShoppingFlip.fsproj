@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="drophtmlpage.html" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-grid.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-grid.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-grid.rtl.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-grid.rtl.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.rtl.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.rtl.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.rtl.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.rtl.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap.min.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap.rtl.css" />
+    <Content Include="bootstrap-5.3.3-dist\css\bootstrap.rtl.min.css" />
+    <Content Include="HomeFlip.html" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-grid.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-grid.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap.rtl.css.map" />
+    <None Include="bootstrap-5.3.3-dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.bundle.js" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.bundle.js.map" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.bundle.min.js" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.esm.js" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.esm.js.map" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.esm.min.js" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.esm.min.js.map" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.js" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.js.map" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.min.js" />
+    <None Include="bootstrap-5.3.3-dist\js\bootstrap.min.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+</Project>

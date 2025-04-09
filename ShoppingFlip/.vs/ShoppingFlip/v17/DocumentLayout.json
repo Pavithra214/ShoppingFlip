@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|c:\\users\\pavithra\\source\\repos\\shoppingflip\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|c:\\users\\pavithra\\source\\repos\\shoppingflip\\homeflip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|solutionrelative:homeflip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|c:\\users\\pavithra\\source\\repos\\shoppingflip\\drophtmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|solutionrelative:drophtmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|c:\\users\\pavithra\\source\\repos\\shoppingflip\\shoppingflip.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|solutionrelative:shoppingflip.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|c:\\users\\pavithra\\source\\repos\\shoppingflip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6109058-2343-4491-89DA-AC367CC9213E}|ShoppingFlip.fsproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-01T14:39:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "drophtmlpage.html",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\drophtmlpage.html",
+              "RelativeDocumentMoniker": "drophtmlpage.html",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\drophtmlpage.html",
+              "RelativeToolTip": "drophtmlpage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-27T10:19:26.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T14:33:44.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingFlip.fsproj",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\ShoppingFlip.fsproj",
+              "RelativeDocumentMoniker": "ShoppingFlip.fsproj",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\ShoppingFlip.fsproj",
+              "RelativeToolTip": "ShoppingFlip.fsproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-02-23T14:30:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeFlip.html",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\HomeFlip.html",
+              "RelativeDocumentMoniker": "HomeFlip.html",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\ShoppingFlip\\HomeFlip.html",
+              "RelativeToolTip": "HomeFlip.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-23T12:57:31.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

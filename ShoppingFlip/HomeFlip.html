@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping Homepage</title>
+    <link href="bootstrap-5.3.3-dist/css/bootstrap-grid.css" rel="stylesheet" />
+    <link href="bootstrap-5.3.3-dist/css/bootstrap-grid.min.css" rel="stylesheet" />
+    <link href="bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.css" rel="stylesheet" />
+    <link href="bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.min.css" rel="stylesheet" />
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.js"></script>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.esm.js"></script>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.esm.min.js"></script>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.js"></script>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
+    <style>
+        .navbar-custom {
+            background-color: #26a541;
+            width:1500px
+            
+        }
+
+            .navbar-custom .navbar-nav .nav-link {
+                color: white;
+            }
+
+            .navbar-custom .navbar-brand {
+                color: white;
+            }
+        .card-body {
+            height: 200px; /* Set a fixed height for card body */
+        }
+    </style>
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-text  navbar-custom">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="javascript:void(0)"><strong>FlipShop</strong></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <button type="button" class="btn btn-primary">
+                <i class="bi bi-cart"></i>
+                <strong>Cart</strong> <span class="badge bg-danger">3</span>
+
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-center" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:void(0)"><strong>Return and orders</strong></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:void(0)"><strong>Become a seller</strong></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"><strong>Login</strong></a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">MyProfile</a></li>
+                            <li><a class="dropdown-item" href="#">Orders</a></li>
+                            <li><a class="dropdown-item" href="#">Wishlist</a></li>
+                            <li><a class="dropdown-item" href="#">Rewards</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="text" placeholder="Search">
+                    <button class="btn btn-primary" type="button"><strong>Search</strong></button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        <div class="row">
+
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src="C:\Users\PAVITHRA\source\repos\ShoppingFlip\Images\Appliances.jpg" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Appliances</h5>
+                        <a href="#" class="btn btn-primary">Appliances</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src="C:\Users\PAVITHRA\source\repos\ShoppingFlip\Images\Electronics.jpg" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Electronics</h5>
+                      
+                        <a href="#" class="btn btn-primary">Electronics</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src="C:\Users\PAVITHRA\source\repos\ShoppingFlip\Images\Fashion.jpg" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Fashion</h5>
+                        <a href="#" class="btn btn-primary">Fashion</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src="C:\Users\PAVITHRA\source\repos\ShoppingFlip\Images\Mobiles.jpg" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Mobiles</h5>
+                        <a href="#" class="btn btn-primary">Mobiles</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src="C:\Users\PAVITHRA\source\repos\ShoppingFlip\Images\PersonalCare.jpg" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">PersonalCare</h5>
+                        <a href="#" class="btn btn-primary">PersonalCare</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src="C:\Users\PAVITHRA\source\repos\ShoppingFlip\Images\TwoWheelers.jpg" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">TwoWheelers</h5>
+                        <a href="#" class="btn btn-primary">TwoWheelers</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>
